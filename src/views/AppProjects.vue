@@ -1,6 +1,6 @@
 <script>
 export default {
-    name: 'AppBlog',
+    name: 'AppProjects',
     data() {
         return {
             // Add your data properties here
@@ -16,7 +16,7 @@ export default {
 </script>
 
 <template>
-    <h1>Blog Page</h1>
+    <h1>My projects Page</h1>
 </template>
 
 <style></style>
